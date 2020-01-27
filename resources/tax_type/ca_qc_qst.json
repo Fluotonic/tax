@@ -1,6 +1,6 @@
 {
-    "name": "Canada - Quebec",
-    "generic_label": "QST",
+    "name": "Quebec QST",
+    "generic_label": "qst",
     "zone": "ca_qc",
     "tag": "CA",
     "rates": [

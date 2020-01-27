@@ -1,6 +1,6 @@
 {
-    "name": "Canada - Manitoba",
-    "generic_label": "RST",
+    "name": "Manitoba RST",
+    "generic_label": "rst",
     "zone": "ca_mb",
     "tag": "CA",
     "rates": [
