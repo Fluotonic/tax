@@ -1,6 +1,6 @@
 {
-    "name": "Canada - Saskatchewan",
-    "generic_label": "GST",
+    "name": "Saskatchewan GST",
+    "generic_label": "gst",
     "zone": "ca_sk",
     "tag": "CA",
     "rates": [
