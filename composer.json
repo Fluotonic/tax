@@ -1,6 +1,6 @@
 {
     "name": "commerceguys/tax",
-    "version": "0.8.1",
+    "version": "0.8.2",
     "type": "library",
     "description": "Tax library with a flexible data model, predefined tax rates, powerful resolving logic.",
     "keywords": ["tax", "vat"],
@@ -8,7 +8,7 @@
     "require": {
         "php": ">=5.5.0",
         "commerceguys/addressing": "~1.0",
-        "commerceguys/zone": "~0.9",
+        "commerceguys/zone": "~0.8",
         "doctrine/collections": "~1.0"
     },
     "require-dev": {
